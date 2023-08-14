@@ -1,0 +1,3 @@
+[submodule "pyric/assets/common_cmake"]
+	path = pyric/assets/common_cmake
+	url = git@github.com:bl-sdk/common_cmake.git

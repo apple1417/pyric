@@ -1,0 +1,22 @@
+{
+  "template": "https://github.com/bl-sdk/common_dotfiles",
+  "commit": "a69033b305349305d77ff33b3c4a40a607f8df54",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "_jinja2_env_vars": {
+        "lstrip_blocks": true,
+        "trim_blocks": true
+      },
+      "_extensions": [
+        "cookiecutter.extensions.SlugifyExtension"
+      ],
+      "project_name": "pyric",
+      "__project_slug": "pyric",
+      "include_cpp": false,
+      "include_py": true,
+      "_template": "https://github.com/bl-sdk/common_dotfiles"
+    }
+  },
+  "directory": null
+}
